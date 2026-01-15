@@ -26,7 +26,7 @@ Yes! Nuxt UI is completely free and open source under the MIT license. All 125+ 
 ::
 
 ::accordion-item{label="Can I use Nuxt UI with Vue without Nuxt?" icon="i-lucide-circle-help"}
-Yes! While optimized for Nuxt, Nuxt UI works perfectly with standalone Vue projects via our Vite plugin. You can follow the [installation guide](/docs/getting-started/installation/vue) to get started.
+Yes! While optimized for Nuxt, Nuxt UI works perfectly with standalone Vue projects via our Vite plugin. You can follow the [installation guide](/docs/getting-started/installation) to get started.
 ::
 
 ::accordion-item{label="Is Nuxt UI production-ready?" icon="i-lucide-circle-help"}
@@ -49,7 +49,7 @@ Yes! Nuxt UI is completely free and open source under the MIT license. All 125+ 
 ::
 
 ::accordion-item{label="Can I use Nuxt UI with Vue without Nuxt?" icon="i-lucide-circle-help"}
-Yes! While optimized for Nuxt, Nuxt UI works perfectly with standalone Vue projects via our Vite plugin. You can follow the [installation guide](/docs/getting-started/installation/vue) to get started.
+Yes! While optimized for Nuxt, Nuxt UI works perfectly with standalone Vue projects via our Vite plugin. You can follow the [installation guide](/docs/getting-started/installation) to get started.
 ::
 
 ::accordion-item{label="Is Nuxt UI production-ready?" icon="i-lucide-circle-help"}

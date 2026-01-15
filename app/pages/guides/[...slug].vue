@@ -4,9 +4,9 @@ import { kebabCase } from 'scule'
 const appConfig = useAppConfig()
 const route = useRoute()
 
-const { data: page } = await useAsyncData(kebabCase(route.path), () => queryCollection('posts').path(route.path).first())
+const { data: page } = await useAsyncData(kebabCase(route.path), () => queryCollection('guides').path(route.path).first())
 if (!page.value) {
-  throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
+  throw createError({ statusCode: 404, statusMessage: 'Guide not found', fatal: true })
 }
 
 const title = page.value.seo?.title || page.value.title
@@ -24,7 +24,7 @@ if (page.value.image) {
   defineOgImage({ url: page.value.image })
 } else {
   defineOgImageComponent('Docs', {
-    headline: 'Blog',
+    headline: 'Guides',
     title,
     description
   })
@@ -45,8 +45,8 @@ const items = computed(() => Object.entries(tree.value).map(([key, value]) => ({
       <template #headline>
         <UButton
           :icon="appConfig.ui.icons.arrowLeft"
-          label="Back to blog"
-          to="/blog"
+          label="Back to guides"
+          to="/guides"
           variant="link"
           class="p-0"
           :ui="{ leadingIcon: 'size-4' }"

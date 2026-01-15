@@ -1,0 +1,9 @@
+seo:
+  title: Guides
+  description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
+title: Guides
+description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
+hero:
+  title: '[Guides]{.text-info}'
+  description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
+navigation.icon: i-lucide-book-open

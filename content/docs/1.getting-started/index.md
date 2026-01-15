@@ -12,62 +12,38 @@ There are many websites filled with slop, but not here.
 ::card-group
   :::card
   ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt
-  to: https://nuxt.com
+  icon: i-lucide-wrench
+  title: Essentials
+  to: /docs/essentials
   ---
-  The Nuxt website
+  Essential info about Markdown
   :::
 
   :::card
   ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt UI
-  to: https://ui.nuxt.com
+  icon: i-lucide-code
+  title: Composables
+  to: /docs/composables
   ---
-  The documentation of `@nuxt/ui`
+  Scripts fror many components
   :::
 
   :::card
   ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt Image
-  to: https://image.nuxt.com
+  icon: i-lucide-square-pilcrow
+  title: Typography
+  to: /docs/typography
   ---
-  The documentation of `@nuxt/image`
+  Various ways to make the content look good
   :::
 
   :::card
   ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt Content
-  to: https://content.nuxt.com
+  icon: i-lucide-pen
+  title: Editing
+  to: /docs/editing
   ---
-  The documentation of `@nuxt/content`
-  :::
-
-  :::card
-  ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt Fonts
-  to: https://fonts.nuxt.com/
-  ---
-  The documentation of `@nuxt/fonts`
-  :::
-
-  :::card
-  ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  title: Nuxt Studio
-  to: https://nuxt.studio
-  ---
-  The documentation of `@nuxt/studio`
+  Edit content in various ways
   :::
 ::
 
@@ -84,4 +60,3 @@ This template includes a range of features designed to streamline documentation 
 - **Dark Mode**: Offers dark mode support for user preference.
 - **Extensive Functionality**: Explore the template to fully appreciate its capabilities.
 - **Editors**: For different purposes.
-

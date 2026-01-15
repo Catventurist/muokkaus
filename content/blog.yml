@@ -1,9 +1,6 @@
-seo:
-  title: Blog
-  description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
 title: Blog
-description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
+description: Discover the latest insights.
+navigation.icon: i-lucide-newspaper
 hero:
-  title: '[Muokkaus]{.text-primary} Blog'
-  description: Tutorials, guides, and insights to help you build beautiful content with Muokkaus.
-navigation: false
+  title: '[Blog]{.text-default}'
+  description: Published ideas and thoughts.

@@ -2,19 +2,19 @@
 title: Editing
 description: Edit your Content.
 seo:
-  title: Nuxt Studio - Edit your Nuxt Content website in production
+  title: Nuxt Studio - Edit your Content
   description: Self-hosted, open-source CMS for Nuxt Content websites.
 ---
 
 ::u-page-hero
 ---
-orientation: horizontal
+orientation: vertical
 ---
 #title
-Edit your [Nuxt]{.text-primary} website in production.
+Edit [Content]{.text-primary}.
 
 #description
-Edit content visually, manage media, and publish changes from your production site.
+Visually adjust, manage media, and publish changes.
 
 #links
   :::u-button
@@ -33,7 +33,7 @@ Edit content visually, manage media, and publish changes from your production si
   icon: i-simple-icons-github
   size: xl
   target: _blank
-  to: https://github.com/nuxt-content/studio
+  to: https://github.com/Catventurist/muokkaus
   variant: outline
   ---
   Star on GitHub

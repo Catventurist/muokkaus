@@ -1,0 +1,9 @@
+seo:
+  title: Authors
+  description: Props to people who made this possible.
+title: Authors
+description: Props to people who made this possible.
+hero:
+  title: '[Authors]{.text-warning}'
+  description: Props to people who made this possible.
+navigation.icon: i-lucide-users
